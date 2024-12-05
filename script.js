@@ -17,15 +17,14 @@
 // function TicketPrice(age){
 //     switch(true)   {
 //     case(age <= 12): 
-//     return `Ticket price is $10`
-//     case(13<= age <= 17): 
-//     return `Ticket price is $15`
-//     case(age >= 18): 
-//     return `Ticket price is $20`
+//     return `Ticket price is $10`;
+//     case(13<= age &&age<=17): 
+//     return `Ticket price is $15`;
+//     case(age >= 18):
+//     return `Ticket price is $20`;
 //     }
 // }
-// console.log(TicketPrice(age));
-
+// console.log(TicketPrice(1));
 
 
 //////// recursive :
